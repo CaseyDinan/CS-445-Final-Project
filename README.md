@@ -1,2 +1,2 @@
-HashSet-Project
+# HashSet-Project
 This repository stores a project I completed at the University of Pittsburgh. The object of this project was to create a hashmap that would allow the dataset provided to be stored and accessed in the most effiecent manor possible. HashSetTester.java is the tester file for the main program, MyHashSet.java, which can be ran with the data input and bucket size desired as command line args. For any questions on the code, please feel free to reach out to me at cdd43@pitt.edu.
